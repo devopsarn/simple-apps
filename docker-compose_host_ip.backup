@@ -51,4 +51,3 @@ services:
 
 volumes:
   app-data:
-  db-data:

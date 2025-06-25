@@ -6,3 +6,4 @@ sonar-project.properties
 package-lock.json
 README.md
 .env
+Dockerfile
