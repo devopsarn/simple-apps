@@ -19,7 +19,7 @@ services:
     image: "phpmyadmin"
     restart: always
     ports:
-      - "8000:80"
+      - "9080:80"
     environment:
       - PMA_HOST=172.23.14.101
 
